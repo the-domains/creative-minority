@@ -1,14 +1,29 @@
+name: Creative Minority
+favicon: null
 layout_spectrum: 0.255806
 typography_spectrum: 0.3193544
+title: Influencing Culture Through Redemptive Participation
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2797241
-  lightness: 0.9230447
-  brandStrength: 0.5643734
-  rhythmicContrast: 0.7927919
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-name: Creative Minority
+  brandStrength: 0.5643734
+  lightness: 0.9230447
+  saturation: 0.2797241
+  rhythmicContrast: 0.7927919
+purpose: []
