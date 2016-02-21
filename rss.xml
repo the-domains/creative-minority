@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Creative Minority]]></title>
         <description><![CDATA[Creative Minority]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/creative-minority/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 17:42:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 17:43:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creative-minority/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/creative-minority/b7140291-174c-4760-b7fb-b1911fc6671a/index.html</link>
+            <guid isPermaLink="false">b7140291-174c-4760-b7fb-b1911fc6671a</guid>
+            <pubDate>Sun, 21 Feb 2016 17:43:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Here we go]]></title>
-            <description><![CDATA[<article><h1>Here we go</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d6caae2-165c-4758-bdf5-b8bbeba7dacd.png"></article>]]></description>
-            <link>undefinedhere-we-go/index.html</link>
+            <description><![CDATA[<article><h1>Here we go</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/688fc619d756eea1865f7275f0dc3bf41e12b248.png"></article>]]></description>
+            <link>https://thegrid.ai/creative-minority/here-we-go/index.html</link>
             <guid isPermaLink="false">62892d3d-7c17-4c8b-8881-2015c6247884</guid>
             <pubDate>Sun, 21 Feb 2016 17:41:21 GMT</pubDate>
         </item>
